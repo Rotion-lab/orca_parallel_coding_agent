@@ -1,3 +1,21 @@
+Mac/Win/Linux 全平台,  支持所有主流Coding agent CLI(CC, codex, pi, opencode etc.),  这是我用过最强大的套壳，其他的我全都卸载了。
+
+功能：
+. 并行worktree
+. computer use(操作电脑，类似codex的电脑使用)
+. 登录态browser（类似codex @chrome）
+. 嵌入式真实 Chromium + Design Mode
+. orca mobile(手机端app，远程控制电脑！）
+. 自动化（定时任务，loop engineering）
+. 语音输入
+. iOS/Android手机模拟器
+. 远程主机控制
+. token使用追踪
+.  GitHub / Linear 原生：PR、issue、看板里直接开
+. orca CLI
+
+喜欢pi的人也非常推荐用这个。
+
 <h1 align="center">
   <a href="https://onOrca.dev"><img src="resources/build/icon.png" alt="Orca" width="64" valign="middle" /></a> Orca
 </h1>
